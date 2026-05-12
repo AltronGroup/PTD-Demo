@@ -12,7 +12,7 @@ android {
         applicationId = "com.altron.urovocustomerdemo"
         minSdk = 27
         targetSdk = 36
-        versionCode = 2
+        versionCode = 3
         versionName = String.format("07.00.04.%04X",versionCode)
 
 
